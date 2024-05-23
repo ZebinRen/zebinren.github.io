@@ -21,7 +21,7 @@
 title: Zebin Ren
 email: z.ren AT vu DOT nl
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD CS student at the VU, intrigued by Storage Systems and Networked Systems.
+  PhD CS student at the VU.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
